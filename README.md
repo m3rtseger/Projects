@@ -6,3 +6,13 @@
 [Diabetes Risk Prediction](https://github.com/m3rtseger/Projects/blob/main/ClassicML_Classification.ipynb)
   * Experiment: k-NN, Support Vector Machines, and Decision Trees to predict diabetes risk from health and lifestyle data. Decision Trees emerged as the top model after hyperparameter tuning with an implemented nested cross-validation and addressing class imbalance with SMOTE and other techniques.
   * Key libraries: scikit-learn, imblearn, pandas
+
+[Clustering on reviews data and PCA]()
+* 
+
+[Visual Story: environmental sustainability and rule of law](https://colab.research.google.com/drive/1aVJE7KzIdl8Hts7QEvpV446j-mHoD2hk?usp=sharing)
+* Experiment: this project visually explores the relationship between nations' environmental sustainability, as measured by the Environmental Performance Index (EPI), and adherence to the Rule of Law (RoL).
+* Key Libraries: Altair (interactive geospatial and bar chart visualizations), seaborn, pandas
+  <img src="https://github.com/m3rtseger/Projects/blob/main/geo_EPI.jpg" alt="Featured Vis"/>
+
+  
