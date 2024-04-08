@@ -7,7 +7,7 @@
   * Experiment: k-NN, Support Vector Machines, and Decision Trees to predict diabetes risk from health and lifestyle data. Decision Trees emerged as the top model after hyperparameter tuning with an implemented nested cross-validation and addressing class imbalance with SMOTE and other techniques.
   * Key libraries: sklearn, imblearn, pandas
 
-[Clustering on reviews data and PCA]()
+[Clustering on reviews data and PCA](https://github.com/m3rtseger/Projects/blob/main/Clustering_PCA.ipynb)
 * Experiment: applying K-means and Hierarchical Agglomerative Clustering (HAC) to discover patterns in user ratings for various attractions from Google reviews. Included dimensionality reduction and cluster visualization.
 * Key libraries: sklearn, scipy, pandas
 
